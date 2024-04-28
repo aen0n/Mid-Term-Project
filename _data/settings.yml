@@ -12,10 +12,10 @@ address: 94, Soraeyeok-ro, Namdong-gu, Incheon, Republic of Korea
 copyright: Copyright &copy; 2024 Designed & Developed by [aenon](https://github.com/aen0n/Mid-Term-Project)
 
 menu:
-  - { name: About, link: }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: About, link: "about" }
+  - { name: Blog, link: "blog" }
+  - { name: Portfolio, link: "portfolio" }
+  - { name: Contact, link: "contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -50,7 +50,7 @@ social:
 # About Section
 blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-blurb-btn-link:
+blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
