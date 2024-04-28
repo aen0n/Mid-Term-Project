@@ -2,17 +2,17 @@
 #-------------------------------
 # General Site Settings
 
-title: DKU_OSS_03
+title: DKU_OSS
 logo:
 author: aen0n
 description: this is meta description
-email: bl4ckh4ir0227@gmail.com
+email: 32201950@dankook.ac.kr
 phone: +82 10 3700 5464
 address: 94, Soraeyeok-ro, Namdong-gu, Incheon, Republic of Korea
 copyright: Copyright &copy; 2024 Designed & Developed by [aenon](https://github.com/aen0n/Mid-Term-Project)
 
 menu:
-  - { name: About, link: "/about" }
+  - { name: About, link: }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> 4enon <br> DKU Student
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -50,7 +50,7 @@ social:
 # About Section
 blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-blurb-btn-link: "/about"
+blurb-btn-link:
 blurb-btn-name: know more
 
 # About Page
