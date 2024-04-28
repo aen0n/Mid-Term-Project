@@ -46,7 +46,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: 단국대 소프트웨어학과에 재학 중인 20학번 32201950 박해원이라고 합니다. 현재 졸업반에 있으며, 캡스톤 프로젝트로 게임 개발을 진행하고 있습니다.
+blurb: I'm Park Haewon, a software major at Dankook University. I'm currently in the fourth grade, and I'm developing Unreal Engine games as a Capstone project. I'm also interested in developing financial apps and security, and I'm currently working on research on areas of interest.
 
 blurb-btn-link: "about"
 blurb-btn-name: know more
@@ -57,29 +57,29 @@ blurb-btn-name: know more
 work-process:
   - title: "Research and Plan"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "We analyze the given problems, create clear objectives, and comprehensively design the plans associated with them. In this step, we mainly map ideas and create suggestions, and specify what development research should be conducted."
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Design specific content based on previous suggestions. Development and feedback are repeated within the team during this process, and modifications and updates are used to improve the project."
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Disclosure or delivery of completed projects. Multiple patches can allow minor updates, including bug fixes."
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "MinWoo Kim"
     image: "assets/images/team/member-1.png"
     designation: "Project Manager"
 
-  - title: "Julias Carlie"
+  - title: "GyeongMin Jeon"
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
-  - title: "John Doe"
+  - title: "JuYeon Yun"
     image: "assets/images/team/member-3.png"
-    designation: "Designer"
+    designation: "Web Developer"
 
 #-------------------------------
 # Skills Section
