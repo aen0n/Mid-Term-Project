@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Haewon Park
-image: assets/images/about/author.jpg
+image: assets/images/about/haewon_author.jpg
 signature: assets/images/about/signature.png
 ---
 
