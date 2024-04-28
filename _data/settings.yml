@@ -70,15 +70,15 @@ work-process:
 # My Team Section
 team:
   - title: "MinWoo Kim"
-    image: "assets/images/team/member-1.png"
+    image: "assets/images/team/minwoo.png"
     designation: "Project Manager"
 
   - title: "GyeongMin Jeon"
-    image: "assets/images/team/member-2.png"
+    image: "assets/images/team/gyeongmin.png"
     designation: "Web Developer"
 
   - title: "JuYeon Yun"
-    image: "assets/images/team/member-3.png"
+    image: "assets/images/team/juyeon.png"
     designation: "Web Developer"
 
 #-------------------------------
