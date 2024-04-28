@@ -39,18 +39,16 @@ hero:
   hero-title: Hi! I’m <br> 4enon <br> DKU Student
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/punchdrunkl0ve_/" }
+  - { icon: "ti-dribbble", link: "https://github.com/aen0n/Mid-Term-Project" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 단국대 소프트웨어학과에 재학 중인 20학번 32201950 박해원이라고 합니다. 현재 졸업반에 있으며, 캡스톤 프로젝트로 게임 개발을 진행하고 있습니다.
 
-blurb-btn-link: "/about"
+blurb-btn-link: "about"
 blurb-btn-name: know more
 
 # About Page
