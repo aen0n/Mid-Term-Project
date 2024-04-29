@@ -2,7 +2,7 @@
 layout: post
 title:  How ‘X-Men ‘97’ Is Finally Bringing Comics’ Badass Cyclops to the Small Screen
 date:   2024-3-28 15:05:55 +0300
-image:  /assets/images/blog/cyclops.png
+image:  assets/images/blog/cyclops.png
 author: William Goodman
 tags:   UX design
 ---
