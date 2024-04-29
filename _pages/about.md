@@ -6,13 +6,8 @@ image: assets/images/about/haewon_author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I'm Park Haewon, a software major student at Dankook University. I'm currently in my fourth year, and I'm developing Unreal Engine Game as a Capstone project as part of my graduation project. I'm also interested in developing financial apps and security, and I'm currently working on research on areas of interest.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+The world is big and wide, and there are so many different people. Among those countless people, I'm not sure that I'm remarkably good at developing, nor that I'm sure that I'm developing at a rapid pace. At the same time, I don't believe that the two things mentioned above determine a person's ability. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My goals are clear. Strong beliefs have given me leadership and passion to carry out projects, and long social experience has taught me how to deal with human relationships. I'll leave it up to deciding which is more valuable, the ability to handle AI or the ability to communicate well with people.

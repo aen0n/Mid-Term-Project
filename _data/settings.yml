@@ -6,7 +6,7 @@ title: DKU_OSS
 logo:
 author: aen0n
 description: this is meta description
-email: 32201950@dankook.ac.kr
+email: 32201950@dankook. <br> ac.kr
 phone: +82 10 3700 5464
 address: 94, Soraeyeok-ro, Namdong-gu, Incheon, Republic of Korea
 copyright: Copyright &copy; 2024 Designed & Developed by [aenon](https://github.com/aen0n/Mid-Term-Project)
@@ -86,9 +86,9 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
+  - { name: Project Managing, color: "#fdb157", value: "90%" }
   - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
+  - { name: Web Development, color: "#bdecf6", value: "80%" }
   - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
@@ -97,22 +97,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Programming Mentor,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Jan 2020 - Aug 2021",
+      organization: "903",
     }
   - {
-      name: UX & UI Designer,
+      name: Web Developer & Mentor,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Sep 2021 - Present",
+      organization: "With Math&English",
     }
   - {
-      name: Senior UI Designer,
+      name: Program Developer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Feb 2020 - Present",
+      organization: "DKU University",
     }
 
 #-------------------------------
@@ -121,24 +121,24 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Graduated Elementary School,
+      date: "2013",
+      organization: "Incheon Nonhyeon Elementary School",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Graduated Middle School,
+      date: "2016",
+      organization: "Incheon Nonhyeon Middle School",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: Graduated High School,
+      date: "2019",
+      organization: "Kojan High School",
     }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: enter university on a scholarship,
+      date: "2020",
+      organization: "Dankook University",
     }
 
 #-------------------------------
@@ -147,21 +147,21 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: Logo Design,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "I've studied logo design for two years, and I'm confident in the geometric design of shapes and lines. If you want a simple but clear message, here.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Client Development,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "This is the field wee have studied the longest, and if you want to develop a delicate client, I can recommend our team with the most confidence. Our team has extensive experience from games based on Unreal Engine to developing basic websites and IOS applications.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Project Managing,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Is it difficult to communicate with your team members? Do you have a lot of experience where you miss the flow every day when you start a project? Project Manager can solve all of these problems.",
       active: ,# Add true to select section
     }
 
@@ -170,76 +170,21 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
 
   - image: "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "https://github.com/chalgul/EscapeofDominic"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Development", type: "development" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
   - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://github.com/chalgul/EscapeofDominic"
     portfolio-type:
-      - type: "design"
+      - type: "development"
 
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
