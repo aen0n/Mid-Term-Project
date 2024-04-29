@@ -190,20 +190,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
+  - name: "MyeongJoo Lee"
+    image: "assets/images/testimonial/myeongjoo.jpg"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: "This team is stronger than anyone else when it comes to specifying a program that you've only thought of in your head. The web sites and applications developed by this team <strong>not only increase practical adaptability and performance, but also increase employee usability because they are aesthetically excellent.</strong> I highly recommend this team to those who want to outsource the development of applications for use by the company."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "HanSoo Park"
+    image: "assets/images/testimonial/hana.jpg"
+    designation: "Program Designer"
+    content: "The biggest drawback for programming developers is that they are weak in design. I am one of the developers who has that weakness. This team is <strong>not only well versed in simple design but also develops at the same time, so it has a lot of developmental knowledge and provides a design that considers functions, which gives a much greater satisfaction.</strong>"
+  
+  - name: "SeoYeong Kim"
+    image: "assets/images/testimonial/seoyeong.jpg"
+    designation: "Web Designer"
+    content: "People who are accustomed to working small often lose control of the flow of projects as they grow larger. This team's management <strong>gathers leaked plans and distributed energy to maximize efficiency.</strong> This reduces development time by 40% and facilitates team communication, helping to boost the team's atmosphere."
 
 #-------------------------------
 # Client Slider Section
