@@ -7,9 +7,7 @@ author: uixgeek
 tags:   UX design
 ---
 
-**What do Pokémon, the Belgian Grand Prix, American Express, the French Unemployment Agency, Duvel Brewery, and the Boat maker MarineMax have in common?**
-
-They were all compromised by cyber crime in March, 2024.  We've compiled a list of the biggest known cyber attacks, data breaches and ransomware attacks in the month gone by. 
+**What do Pokémon, the Belgian Grand Prix, American Express, the French Unemployment Agency, Duvel Brewery, and the Boat maker MarineMax have in common? They were all compromised by cyber crime in March, 2024.  We've compiled a list of the biggest known cyber attacks, data breaches and ransomware attacks in the month gone by.**
 
 1. Ransomware Attacks in March 2024
 2. Cyber Attacks in March 2024
@@ -30,20 +28,26 @@ Enhancing cyber resilience is an ongoing process that requires constant attentio
 
 > New Ransomware/Malware Discovered in March 2024
 
-*1. CryptoChameleon*
+***1. CryptoChameleon***
+
 A new phishing kit named CryptoChameleon is being used to target Federal Communications Commission (FCC) employees, using specially crafted single sign-on (SSO) pages for Okta that appear remarkably similar to the originals.
 
-*2. CHAVECLOAK trojan*
+***2. CHAVECLOAK trojan***
+
 Security researchers have identified new malware aimed at stealing banking credentials from Brazilians, as cybercriminals continue to target the country’s financial sector.
 
-*3. GTPDOOR Linux malware*
+***3. GTPDOOR Linux malware***
+
 Security researcher HaxRob discovered a previously unknown Linux backdoor named GTPDOOR, designed for covert operations within mobile carrier networks.
 
-*4. WineLoader malware*
+***4. WineLoader malware***
+
 Researchers are warning that a notorious hacking group linked to Russia's Foreign Intelligence Service (SVR) is targeting political parties in Germany for the first time, shifting their focus away from the typical targeting of diplomatic missions.
 
-*5. StrelaStealer malware*
+***5. StrelaStealer malware***
+
 A new large-scale StrelaStealer malware campaign has impacted over a hundred organisations across the United States and Europe, attempting to steal email account credentials.
 
-*6. AceCryptor malware*
+***6. AceCryptor malware***
+
 Thousands of new infections involving the AceCryptor tool — which allows hackers to obfuscate malware and slip it into systems without being detected by anti-virus software — have been discovered as part of a campaign targeting organizations across Europe.
